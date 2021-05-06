@@ -1,5 +1,5 @@
-### Hi, I'm Tommy Geiger
-a software engineer and computer science student at the University of Rochester. I'm interested in full-stack development, data science, UI/UX, and audio engineering.
+## Hi there!
+I'm a software engineer and computer science student at the University of Rochester. I'm interested in full-stack development, data science, UI/UX, and audio engineering.
 
 <!--
 **tommygeiger/tommygeiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
