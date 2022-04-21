@@ -1,4 +1,4 @@
-I'm a software engineer from Boston, a graduate of University of Rochester, and a TDP at M&T Bank in Buffalo NY. I'm interested in full-stack development, UI, data science, and audio engineering.
+I'm a software engineer from Boston, a University of Rochester grad, and a TDP at M&T Bank in Buffalo NY. I'm interested in full-stack development, UI, and audio stuff.
 
 Things I've been working on:
 - [Trending Google Searches, a Chrome extension](https://tommygeiger.com/trending-google-searches)
