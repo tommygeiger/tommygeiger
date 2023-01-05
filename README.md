@@ -6,10 +6,10 @@ What I've been working on:
 - [PromoParlor, an industry specific Discourse forum](https://promoparlor.com)
 
 Past accomplishments:
-- End-to-end COVID-19 screening solution for a local non-profit, with automated emails and mobile dashboard (javascript, google APIs)
+- End-to-end COVID screening solution for a local non-profit, with automated emails and mobile dashboard (javascript, google APIs)
 - K-means predictive model for CitiBike ride destinations in NYC (python, sklearn)
 - Recipe database search engine with ingredient and keyword search (php, html, css)
-- 3D music visualizer in the Unity game engine (javascript)
+- 3D music visualizer in Unity 3D game engine (javascript)
 
 What's next:
 - Looking to move into an environmental tech job in the Boston area
