@@ -8,4 +8,4 @@ What I've been working on:
 What's next:
 - Looking to move into an environmental tech job in the Boston area
 - Building a Stripe powered storefront website for a client
-- Starting a music curation brand 👀
+- Starting a music curation brand
