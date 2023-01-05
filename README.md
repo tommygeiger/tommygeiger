@@ -1,4 +1,4 @@
-I'm a software engineer from Boston, a University of Rochester grad, and a current TDP at M&T Bank in Buffalo NY. I'm interested in full-stack development, music, and the environment. I know my way around Angular and React, as well as server-side JS and python. I'd like to explore the realms of IOT and environmental tech in the future.
+Hi! I'm a software engineer from Boston, a University of Rochester grad, and a current TDP at M&T Bank in Buffalo NY. I'm interested in full-stack development, music, and the environment. I know my way around Angular and React, as well as server-side JS and Python. I'm not afraid to configure a server, or rapidly pivot to a new language. In the future I'm seeking to explore the realms of IOT and ways tech can benefit our environment.
 
 Things I've been working on:
 - [Trending Google Searches, a Chrome extension](https://tommygeiger.com/trending-google-searches)
