@@ -8,7 +8,7 @@ What I've been working on:
 Past accomplishments:
 - End-to-end COVID screening solution for a local non-profit, with automated emails and mobile dashboard (javascript)
 - K-means predictive model for CitiBike ride destinations in NYC (python, sklearn)
-- Recipe database search engine with ingredient and keyword search (php, html, css, mySQL)
+- Recipe database search engine with ingredient and keyword search (php, html, css, SQL)
 - 3D music visualizer in Unity 3D game engine (javascript)
 
 What's next:
