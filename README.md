@@ -14,5 +14,5 @@ Past accomplishments (no longer live):
 
 What's next:
 - I'm looking to move into an environmental tech job in the Boston area
-- Building a stripe powered storefront webpage for a client
+- Building a stripe powered storefront website for a client
 - Starting a music curation brand 👀
