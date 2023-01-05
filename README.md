@@ -9,4 +9,5 @@ Other accomplishments (no longer live):
 - End-to-end COVID-19 screening solution for a local non-profit, complete with email notifications and a mobile dashboard
 - K-means model to predict CitiBike ride destinations in NYC
 - Graphical audio sampler built in Max 8
-- Full stack recipe database search engine, 
+- Recipe database search engine with ingredient and keyword search
+- 3D music visualizer in Unity
