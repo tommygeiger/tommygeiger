@@ -9,3 +9,5 @@ What's next:
 - Looking to move into an environmental tech job in the Boston area
 - Building a Stripe powered storefront website for a client
 - Starting a music curation brand
+
+See [my resume](https://tommygeiger.com/resume.pdf)
