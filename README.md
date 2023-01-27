@@ -10,4 +10,4 @@ What's next:
 - Building a Stripe powered storefront website for a client
 - Starting a music curation brand
 
-See [my resume](https://tommygeiger.com/resume.pdf).
+See [my resume](https://tommygeiger.com/resume.pdf)!
