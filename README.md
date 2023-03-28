@@ -6,8 +6,8 @@ What I've been working on:
 - [PromoParlor, an industry specific Discourse forum](https://promoparlor.com)
 
 What's next:
-- Seeking an environmental or medicine tech job in the Boston area
-- Building a Stripe powered storefront for a client
-- Creating a composting informational website and campaign
+- Seeking a mission-oriented tech job in the Boston area
+- Building Stripe powered storefronts for small businesses
+- Spreading composting awareness and resources
 
 See [my resume](https://tommygeiger.com/resume.pdf).
