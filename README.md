@@ -7,7 +7,6 @@ What I've been working on:
 
 What's next:
 - Seeking a mission-oriented tech job in the Boston area
-- Building Stripe powered storefronts for small businesses
 - Spreading composting awareness and resources
 
 See [my resume](https://tommygeiger.com/resume.pdf).
