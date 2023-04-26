@@ -5,8 +5,4 @@ What I've been working on:
 - [Tuner, a Spotify web app to improve recommendations](https://tommygeiger.com/tuner)
 - [PromoParlor, an industry specific Discourse forum](https://promoparlor.com)
 
-What's next:
-- Seeking a mission-oriented tech job in the Boston area
-- Spreading composting awareness and resources
-
 See [my resume](https://tommygeiger.com/resume.pdf).
