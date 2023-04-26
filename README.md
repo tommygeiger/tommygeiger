@@ -5,4 +5,4 @@ What I've been working on:
 - [Tuner, a Spotify web app to improve recommendations](https://tommygeiger.com/tuner)
 - [PromoParlor, an industry specific Discourse forum](https://promoparlor.com)
 
-See [my resume](https://tommygeiger.com/resume.pdf).
+See [my resume.](https://tommygeiger.com/resume.pdf)
