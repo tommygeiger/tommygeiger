@@ -1,6 +1,6 @@
-I'm a software engineer from Boston, a University of Rochester grad, and a TDP at M&T Bank in Buffalo NY. I'm interested in full-stack development, music, health and the environment. I'm familiar with Angular and React, server side Node and Python, and some data science techniques. In the future I want to explore IOT and how we can use tech to benefit our health and natural environment.
+I'm a software engineer located in Somerville MA currently working for Gainwell Technologies, improving healthcare systems and analytics for the state fo Vermont. I'm interested in full-stack development, health, music and the environment. I'm comfortable building user interfaces and APIs in Javascipt, and processing big data with SQL and Python.
 
-What I've been working on:
+Some things I've been working on:
 - [Trending Google Searches, a Chrome extension for staying in the know](https://tommygeiger.com/trending-google-searches)
 - [Tuner, a Spotify web app to improve recommendations](https://tommygeiger.com/tuner)
 - [PromoParlor, an industry specific Discourse forum](https://promoparlor.com)
